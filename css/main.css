@@ -5,8 +5,9 @@ body {
 
 h1 {
   font-size: 1.5rem;
+}
 
-main p {
+article {
   font-style: italic;
   color: #666666;
 }
